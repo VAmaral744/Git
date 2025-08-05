@@ -1,0 +1,6 @@
+Enviar o Codigo ao Repositorio Remoto 
+-Quando finalizamos uma funcionalidade nova, enviamos o código ao repositorio remoto, que é o codigo-fonte;
+- Esta ação é feita pelo {
+    git push
+};
+- Após esta ação o codigo do servidor será atualizado baseando-se no codigo local enviado;
