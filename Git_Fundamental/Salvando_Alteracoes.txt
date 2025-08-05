@@ -1,0 +1,7 @@
+Salvando Alterações 
+- As alterações são salvas com {
+  git commit
+};
+- Podemos commitar arquivos ou varios de uma vez com a flag -a ;
+- É uma boa prática enviar uma mensagem a cada commit, com as alterações que foram feitas; 
+- A mensagem pode ser adicionada com uma flag -m ;
